@@ -3,7 +3,7 @@
 Maze random generator on JavaScript.
 
 Check deployment at:
-> https://maze.eht.ociotec.com
+> https://maze.ociotec.com
 
 ![Maze screenshot](screenshot.png)
 
